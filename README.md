@@ -1,4 +1,7 @@
-
+### 仿微信静态页面 vue2.0 + vant 2.0
+### 目前有首页，通讯录，发现，我的四个主页面，首页下有4个二级页面，剩下几个主页面还没有写二级页面
+### 没有动画过渡效果学会了再重写 
+![img](https://user-images.githubusercontent.com/99640168/173088910-b17970ce-8b87-4571-b1f0-193658872c64.png)
 ## Project setup
 ```
 npm install
@@ -17,13 +20,9 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 仿微信静态页面 vue2.0 + vant 2.0
-### 目前有首页，通讯录，发现，我的四个主页面，首页下有4个二级页面，剩下几个主页面还没有写二级页面
-### 没有动画过渡效果学会了再重写 
-![img](https://user-images.githubusercontent.com/99640168/173088910-b17970ce-8b87-4571-b1f0-193658872c64.png)
 
 
-
+https://user-images.githubusercontent.com/99640168/173089411-c3713ad9-60c4-496c-bf7b-e751bbadea06.mp4
 
 
 
