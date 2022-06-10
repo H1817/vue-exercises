@@ -2,7 +2,7 @@
   <div>
     <ChatNav></ChatNav>
     <div class="content">
-      <p class="time">5月19日 上午10:30</p>
+      <p class="time">5月29日 上午10:30</p>
       <van-cell-group inset>
         <van-cell class="msg-cell" size="large">
           <template #title>
