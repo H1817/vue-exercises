@@ -22,7 +22,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-https://user-images.githubusercontent.com/99640168/173089411-c3713ad9-60c4-496c-bf7b-e751bbadea06.mp4
-
-
-
