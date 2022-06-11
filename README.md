@@ -2,10 +2,11 @@
 ### 目前有首页，通讯录，发现，我的四个主页面，首页下有5个二级页面，剩下几个主页面还没有写二级页面
 ##### 没有动画过渡效果,学会了再重写  bug:左上角徽标从消息页面返回后还会出来(缓存组件...学习中)
 
-<iframe src="https://user-images.githubusercontent.com/99640168/173164730-31f53c41-b66e-454e-b973-dee79210805a.mp4" height=498 width=510> </iframe>
 
 
 
+
+https://user-images.githubusercontent.com/99640168/173164759-1a60868d-bbd2-4a30-8f5f-ce322e3ba395.mp4
 
 
 
