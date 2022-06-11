@@ -3,6 +3,10 @@
 ##### 没有动画过渡效果,学会了再重写  bug:左上角徽标从消息页面返回后还会出来(缓存组件...学习中)
 
 
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://user-images.githubusercontent.com/99640168/173164759-1a60868d-bbd2-4a30-8f5f-ce322e3ba395.mp4" type="video/mp4">
+</videos>
+
 
 <iframe height=498 width=510 src="https://user-images.githubusercontent.com/99640168/173164759-1a60868d-bbd2-4a30-8f5f-ce322e3ba395.mp4">
 
