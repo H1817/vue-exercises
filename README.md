@@ -3,16 +3,6 @@
 ##### 没有动画过渡效果,学会了再重写  bug:左上角徽标从消息页面返回后还会出来(缓存组件...学习中)
 
 
-<video id="video">
-      <source id="mp4" src="https://user-images.githubusercontent.com/99640168/173164759-1a60868d-bbd2-4a30-8f5f-ce322e3ba395.mp4" type="video/mp4">
-</videos>
-
-
-
-
-
-
-
 
 ![img](https://user-images.githubusercontent.com/99640168/173088910-b17970ce-8b87-4571-b1f0-193658872c64.png)
 
